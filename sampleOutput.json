@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Guinness World Records crowns new hottest pepper",
+    "description": "Pepper X registers at 2.69 million Scoville Heat Units - pepper spray is about 1.6 million units.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67136085",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/150E5/production/_131454268_pepperx.jpg",
+    "publishedAt": "2023-10-17T14:37:19.2115598Z",
+    "content": "The Guinness World Records has crowned Pepper X as the hottest chili pepper in the world, dethroning the Carolina Reaper chili pepper after 10 years.\r\nFor comparison, a habanero pepper typically hits… [+2225 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine 'destroys Russian helicopters in Berdyansk and Luhansk'",
+    "description": "Special forces say they hit nine aircraft at bases in occupied Berdyansk and Luhansk.",
+    "url": "http://www.bbc.co.uk/news/world-europe-67135163",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BCD9/production/_131454384_mediaitem131454383.jpg",
+    "publishedAt": "2023-10-17T13:37:18.882846Z",
+    "content": "Ukraine says it has destroyed nine Russian helicopters in an air strike on two cities in the Russian-occupied east of the country.\r\nA special forces statement said an air defence system and other equ… [+2185 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Cruise self-driving cars investigated after two accidents",
+    "description": "The US safety regulator is looking into GM's Cruise self-driving cars after reports of pedestrian injuries.",
+    "url": "http://www.bbc.co.uk/news/technology-67133409",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15775/production/_131452978_7e3d1fdb1b5333cb30725406171ba9623b469785525_528_1084_6101084x610.jpg",
+    "publishedAt": "2023-10-17T13:22:20.9777488Z",
+    "content": "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. \r\nSelf-driving cars made by Cruise may have been \"encroachi… [+1851 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Greta Thunberg detained at Fossil Free London protest",
+    "description": "The Swedish climate campaigner was with other activists at a protest outside a central London hotel.",
+    "url": "http://www.bbc.co.uk/news/uk-england-london-67136772",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3F7F/production/_131455261_df33db9b-02e1-4142-89b5-e49d840c463d.jpg",
+    "publishedAt": "2023-10-17T13:22:19.6613644Z",
+    "content": "Greta Thunberg has been detained during a Fossil Free London protest.\r\nThe Swedish climate campaigner had joined other activists outside the InterContinental Hotel on Park Lane where oil executives w… [+478 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Biden to visit Israel as concerns grow over conflict escalating",
+    "description": "The US president will stress \"ironclad\" support for Israel's security when he visits on Wednesday.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67132793",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_131452514_gettyimages-1724787945.jpg",
+    "publishedAt": "2023-10-17T10:37:18.3362193Z",
+    "content": "Media caption, Watch: Blinken explains why Biden is visiting Israel\r\nPresident Joe Biden will visit Israel on Wednesday in a show of support as the US works to prevent the war with Hamas from spreadi… [+3218 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Police shoot man in hunt for Brussels gunman",
+    "description": "It follows Monday night's incident where two Swedish nationals were shot dead in the Belgian capital.",
+    "url": "http://www.bbc.co.uk/news/world-europe-67131128",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-10-17T06:37:17.9928219Z",
+    "content": "Police in Brussels have shot a man amid a massive manhunt for the gunman who killed two Swedish nationals on Monday evening. \r\nThe man was shot in a café in the Schaerbeek neighbourhood, local media … [+192 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Belt and Road Initiative: Is China's trillion-dollar gamble worth it?",
+    "description": "Xi Jinping’s signature policy to transform the world has cost billions - has it paid off?",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-67120726",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A40A/production/_131449914_gettyimages-682913708.jpg",
+    "publishedAt": "2023-10-17T04:52:19.3211146Z",
+    "content": "This week, China is throwing a huge party to celebrate one of its biggest experiments in engaging with the world: its Belt and Road Initiative (BRI).\r\nOfficials and leaders from all over the globe ar… [+10591 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Last words of knifed US Muslim boy were 'Mom, I'm fine'",
+    "description": "Wadea al-Fayoume was laid to rest in a Chicago suburb as the family's landlord was charged with murder.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67085553",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/155DA/production/_131441578_e956ff62-bef4-46cd-95dc-4ba6713c1dac.jpg",
+    "publishedAt": "2023-10-17T02:22:17.3860439Z",
+    "content": "Media caption, Watch: US-Palestinian family mourns: 'We're not in war'\r\nThe last words of a six-year-old US Muslim boy stabbed to death in a suspected hate crime over the weekend were \"Mom, I'm fine\"… [+5146 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Will Sam Bankman-Fried take the stand to save himself?",
+    "description": "A long prison sentence hangs over him so the former crypto tycoon may take a gamble and testify.",
+    "url": "http://www.bbc.co.uk/news/business-67125913",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D3B2/production/_131449145_whatsubject.jpg",
+    "publishedAt": "2023-10-16T22:22:17.366849Z",
+    "content": "Lawyers for former crypto billionaire Sam Bankman-Fried have asked for increased access to medicine to address his attention deficit hyperactivity disorder (ADHD) so he can better focus on his ongoin… [+4631 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Can Jim Jordan become the next Republican House Speaker?",
+    "description": "Jim Jordan feels \"real good\" about his prospects of winning the gavel, but he faces a maths problem.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67096624",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14216/production/_131445428_gettyimages-1723766264.jpg",
+    "publishedAt": "2023-10-16T15:22:23.4309435Z",
+    "content": "It has been 13 days since the US House of Representatives ousted its Speaker - and there may yet be some distance to go before a replacement is found.\r\nWhen eight conservative Republicans joined Demo… [+6011 chars]"
+    }
+    ]
+    }
