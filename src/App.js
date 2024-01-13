@@ -8,6 +8,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
 
 export default class App extends Component {
+  pageSize=5;
   
   state={
     progress:0
